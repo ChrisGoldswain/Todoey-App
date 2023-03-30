@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1CA39043-0EB9-4B38-BC2F-D45DD772C1CB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20DE5779-2F74-4063-9ED6-9C1A46A1F723"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Todoey/Data Model/Item.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Item"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "20DE5779-2F74-4063-9ED6-9C1A46A1F723 - b08c97c93fe4d6c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todoey.Item.__allocating_init() -&gt; Todoey.Item"
+                  moduleName = "Todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophergoldswain/Documents/Dev/Udemy%20course%20-%20iOS%20bootcamp/Todoey-CoreData-iOS13-Completed/Todoey/Data%20Model/Item.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "20DE5779-2F74-4063-9ED6-9C1A46A1F723 - 13161bfda21382e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todoey.Item.init() -&gt; Todoey.Item"
+                  moduleName = "Todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophergoldswain/Documents/Dev/Udemy%20course%20-%20iOS%20bootcamp/Todoey-CoreData-iOS13-Completed/Todoey/Data%20Model/Item.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "20DE5779-2F74-4063-9ED6-9C1A46A1F723 - d26dba9b8c63c869"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todoey.Item.__deallocating_deinit"
+                  moduleName = "Todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophergoldswain/Documents/Dev/Udemy%20course%20-%20iOS%20bootcamp/Todoey-CoreData-iOS13-Completed/Todoey/Data%20Model/Item.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
